@@ -1,0 +1,19 @@
+.res{
+    border: 3px solid lightblue
+}
+.resu{
+    background-color: blanchedalmond;
+}
+.heading{
+    font-size: large;
+    font-weight:500;
+    border: 1px solid greenyellow;
+    color: white;
+    background-color: lightblue;
+}
+html{
+    font-family: 'Libre Baskerville', serif;
+}
+.box{
+    padding: 10px;
+}
